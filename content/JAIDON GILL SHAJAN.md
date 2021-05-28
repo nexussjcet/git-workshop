@@ -1,6 +1,6 @@
 ---
 name: "JAIDON GILL SHAJAN"
-avatar: "https://github.com/judu-13.png"
+avatar: "https://avatars.githubusercontent.com/u/84973988?v=4"
 desc: "S2(AD) Student"
 college: "SJCET,PALAI"
 web: "http://www.sunipix.com/sunimgs/"
