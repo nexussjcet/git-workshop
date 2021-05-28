@@ -1,9 +1,9 @@
 ---
 name: "Subin Sabu"
 avatar: "github.com/subezio-whitehat"
-desc: "Security Enthusiasist"
-college: "S.J.C.E.T"
-web: "website"
+desc: "Security Enthusiast,Learner"
+college: "SJCET"
+web: "None"
 github: "github.com/subezio-whitehat"
-gitlab: "gitlab link"
+gitlab: "None"
 ---
