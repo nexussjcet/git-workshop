@@ -1,0 +1,7 @@
+name: "Vivekanand R"
+avatar: "https://avatars.githubusercontent.com/u/75977224?s=400&u=efb416497fc21c5a38940ade8b76ab85a77def72&v=4.png"
+desc: "Student at SJCET Palai"
+college: "St Josephs College of Engineering and Technology Palai"
+web: "none"
+github: "https://github.com/vivek-unni"
+gitlab: "none"
