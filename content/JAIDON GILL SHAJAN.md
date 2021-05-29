@@ -5,5 +5,5 @@ desc: "S2(AD) Student"
 college: "SJCET,PALAI"
 web: "http://www.sunipix.com/sunimgs/"
 github: "https://github.com/JUDU-13"
-gitlab: "none"
+gitlab: "https://gitlab.com/JUDU-13"
 ---
